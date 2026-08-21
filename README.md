@@ -25,3 +25,7 @@ Before moving to advanced SQL queries and Python scripts, I used **Power Query**
 - [x] **Phase 1:** Data Cleaning and Standardization (Excel Power Query)
 - [ ] **Phase 2:** Relational Database Auditing and Financial Analysis (SQL)
 - [ ] **Phase 3:** Outage Simulation and Data Visualization (Python & Dashboards)
+---
+### 🔗 Technical Execution
+You can view the full interactable data story and phase implementation on my [Kaggle Notebook] (https://www.kaggle.com/code/nashwaelhaloos/notebookb29f545de2).
+
