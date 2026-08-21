@@ -27,5 +27,5 @@ Before moving to advanced SQL queries and Python scripts, I used **Power Query**
 - [ ] **Phase 3:** Outage Simulation and Data Visualization (Python & Dashboards)
 ---
 ### 🔗 Technical Execution
-You can view the full interactable data story and phase implementation on my [Kaggle Notebook] (https://www.kaggle.com/code/nashwaelhaloos/notebookb29f545de2).
+You can view the full interactable data story and phase implementation on my [Kaggle Notebook] (https://www.kaggle.com/code/nashwaelhaloos/erp-data-integrity-supply-chain-resilience).
 
