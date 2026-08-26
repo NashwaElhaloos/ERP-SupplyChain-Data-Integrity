@@ -20,6 +20,12 @@ Before moving to advanced SQL queries and Python scripts, I used **Power Query**
    * Scanned the `permanent_supplier_change` column for missing or `null` entries and replaced them with **`False`**. This ensures consistency across the entire column and prevents errors during future relational queries and coding phases.
 
 ---
+#### Key Statistical Findings:
+*   **Mean Loss:** ~$2.52M 
+*   **Median Loss:** ~$875K
+*   **Risk Diagnosis:** The data displays strong positive skewness. The fact that the mean is triple the median indicates that the ecosystem is highly vulnerable to catastrophic "long-tail" failure events. Standard ERP systems manage typical disruptions well (the median), but fail to secure revenue assurance during severe system collapses (the outliers).
+
+This empirical gap confirms the operational need for the next phase of this research: using SQL to mine and isolate these critical financial anomalies.
 
 ## Technical Roadmap
 - [x] **Phase 1:** Data Cleaning and Standardization (Excel Power Query)
