@@ -23,9 +23,14 @@ Before moving to advanced SQL queries and Python scripts, I used **Power Query**
 #### Key Statistical Findings:
 *   **Mean Loss:** ~$2.52M 
 *   **Median Loss:** ~$875K
-*   **Risk Diagnosis:** The data displays strong positive skewness. The fact that the mean is triple the median indicates that the ecosystem is highly vulnerable to catastrophic "long-tail" failure events. Standard ERP systems manage typical disruptions well (the median), but fail to secure revenue assurance during severe system collapses (the outliers).
+*   **Standard Deviation:** ~$5.53M
+*   **Skewness:** 10.32 (Highly skewed long-tail risk)
+*   **Kurtosis:** 302.21 (Severe fat-tailed outlier distribution)
 
-This empirical gap confirms the operational need for the next phase of this research: using SQL to mine and isolate these critical financial anomalies.
+#### Risk Diagnosis & Empirical Gap:
+The empirical results confirm that the dataset is heavily exposed to catastrophic, low-frequency anomalies. Standard ERP systems manage typical disruptions well (the median), but completely fail to maintain revenue assurance and data integrity during severe network collapses (represented by the massive Kurtosis of 302.21 and extreme Standard Deviation of $5.53M). 
+
+This empirical gap directly validates the core objective of this research: the necessity of establishing a decentralized, automated reconciliation framework to prevent revenue leakage when enterprise systems experience data shocks post-outage.
 
 ## Technical Roadmap
 - [x] **Phase 1:** Data Cleaning and Standardization (Excel Power Query)
