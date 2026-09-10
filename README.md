@@ -51,6 +51,7 @@ Developed a full-scale interactive risk analysis dashboard using **Tableau Publi
 ---
 
 ## 🎯 Current Active Phase: Phase 3 (Programmatic Python Simulation)
+![Predictive Risk Chart](predictive_risk_chart.png)
 Backed by my **Cisco Python Essentials Certification**, the current implementation has transitioned to a secure **Google Colab Cloud Environment** to model system failures safely. 
 
 ### Core Algorithmic Framework Under Development:
