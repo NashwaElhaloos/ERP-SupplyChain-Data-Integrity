@@ -65,7 +65,7 @@ Backed by my **Cisco Python Essentials Certification**, the current implementati
 ## 🔗 Repository Resources
 *   **SQL Scripts:** `ERP_Port_Disruption_Final_Analytics.sql` (Production-ready audit queries).
 *   **Dataset Source:** Cleaned baseline workbook (`Supplier_Stability_Cleaned_Baseline.xlsx`).
-*   **Interactive Explorations:** Access the end-to-end data story on my [Kaggle Notebook](https://kaggle.com).
+*   **Interactive Explorations:** Access the end-to-end data story on my [Kaggle Notebook](https://www.kaggle.com/code/nashwaelhaloos/erp-data-integrity-supply-chain-resilience)
 
 
 aloos/erp-data-integrity-supply-chain-resilience).
